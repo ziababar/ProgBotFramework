@@ -1,0 +1,45 @@
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Bot Application1.dll.config
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Bot Application1.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Bot Application1.pdb
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Autofac.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Chronic.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.Bot.Builder.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.Bot.Connector.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Newtonsoft.Json.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\System.Net.Http.Formatting.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\System.Web.Http.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\System.Web.Http.WebHost.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Autofac.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.Bot.Builder.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.Bot.Connector.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\Newtonsoft.Json.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\System.Net.Http.Formatting.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\System.Web.Http.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\System.Web.Http.WebHost.xml
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\obj\Debug\RockPaperScissors1.csprojResolveAssemblyReference.cache
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\obj\Debug\RockPaperScissors1.csproj.CoreCompileInputs.cache
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\obj\Debug\Bot Application1.dll
+C:\Users\ziaba\source\repos\ProgBotFramework\Chapter03\RockPaperScissors1\obj\Debug\Bot Application1.pdb
